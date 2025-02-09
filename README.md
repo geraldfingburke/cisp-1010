@@ -1,2 +1,6 @@
-# cisp-1010
-Labs and other content for CISP 1010 - Introduction to Computer Science 1
+# CISP 1010 - Introduction to Computer Science I
+This repository contains lab assignments, examples, and materials for CISP 1010
+
+
+--
+rev. Spring 2025
